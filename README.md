@@ -1,10 +1,16 @@
 <div align="center">
+  <h1>Mathieu Ramage</h1>
+
   <p>
-    <strong>Executive digital leader who can also design and build the systems.</strong>
+    <strong>Digital, Data & AI Leader | Agentic AI | Governed Software Delivery</strong>
   </p>
 
   <p>
-    I connect transformation strategy, product execution, software architecture, and AI automation to make complex organizations move faster with control.
+    <strong>I operate where executive transformation meets working software.</strong>
+  </p>
+
+  <p>
+    18+ years across digital, product, data, information systems, entrepreneurship, and now governed agentic AI.
   </p>
 
   <p>
@@ -19,6 +25,18 @@
     <img alt="Governed Delivery" src="https://img.shields.io/badge/Delivery-Governed-334155?style=for-the-badge&labelColor=0F172A" />
   </p>
 </div>
+
+## The Thread
+
+I started in San Francisco, close to the early signals of the software economy, helping large organizations understand what technology was about to change. Then I built companies, led mobile products used at national scale, and rebuilt digital and data organizations inside complex enterprises.
+
+That path shaped how I think: software is not just a feature factory. Done well, it becomes an operating system for decisions, ownership, evidence, and execution.
+
+I have sat in the room where a 36M EUR technology budget has to become a roadmap, and I still care about the shape of a TypeScript interface. That range is the point: strategy has to survive contact with the code, and code has to survive contact with the organization.
+
+Today, that thread shows up in **SlashCommand**: governed agentic delivery for GitHub. The goal is simple: make AI useful where delivery risk is real, with explicit rules, human approval, traceable actions, and systems that can be audited after they run.
+
+I am at my best when the problem is messy: legacy systems, unclear ownership, delivery pressure, technical debt, business stakes, and a need to make teams faster without making the system fragile.
 
 ## Hands-On Stack
 
@@ -39,9 +57,11 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0F172A" />
 </p>
 
-## Current Thesis
+## Why This Matters
 
-AI will not create durable enterprise value by adding another chatbot to the stack. It creates value when it is embedded into governed workflows: explicit rules, observable decisions, safe execution, human validation where risk is high, and measurable business outcomes.
+Most AI demos look impressive for five minutes. Enterprise value shows up later, when the system can be trusted on a bad day.
+
+The opportunity is not another assistant on top of the work. The opportunity is to make the work itself more programmable: clearer rules, observable decisions, safe execution, human validation where risk is high, and measurable business outcomes.
 
 That is the thread across my work: **turn complex digital operations into controlled, automated, auditable systems**.
 
