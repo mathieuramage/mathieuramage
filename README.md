@@ -45,17 +45,6 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0F172A" />
 </p>
 
-## Executive Signal
-
-| Scope | Evidence |
-| --- | --- |
-| Digital, Data & AI leadership | 18+ years across digital, product, information systems, transformation, consulting, scale-up, and entrepreneurship. |
-| Organizational scale | Led teams up to 64 people and transformation programs spanning 200+ IT and digital professionals. |
-| Systems scale | Governed environments up to 500+ applications and 3,000 internal users serving millions of end customers. |
-| Financial scope | Managed budgets up to 36M EUR and delivered supplier/tooling rationalization with measurable savings. |
-| International execution | Operated across France, Morocco, and the United States. |
-| AI specialization | Designing governed agentic AI systems for software delivery, automation, human-in-the-loop control, and auditability. |
-
 ## Current Thesis
 
 AI will not create durable enterprise value by adding another chatbot to the stack. It creates value when it is embedded into governed workflows: explicit rules, observable decisions, safe execution, human validation where risk is high, and measurable business outcomes.
@@ -111,17 +100,6 @@ That is the thread across my work: **turn complex digital operations into contro
 | Product, Data & AI | Product strategy, discovery-to-delivery, generative AI, agentic systems, governed automation, human-in-the-loop workflows, analytics, journey optimization. |
 | Engineering & delivery | CI/CD, GitHub workflows, software lifecycle automation, SaaS/API integrations, quality systems, observability, documentation, operational excellence. |
 | Leadership & transformation | Multidisciplinary team design, change management, multi-site leadership, product/data/engineering culture, executive alignment. |
-
-## Operating Mode
-
-```text
-Clarify the business constraint
-Map the system and the decision rights
-Design the smallest valuable controlled workflow
-Build the product and automation layer
-Verify with evidence, metrics, and rollback paths
-Scale through governance, documentation, and operating rituals
-```
 
 ## Ask Me About
 
