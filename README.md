@@ -1,78 +1,107 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0F172A,45:2563EB,100:22C55E&text=Mathieu%20Ramage&fontColor=FFFFFF&fontSize=48&fontAlignY=36&desc=Agentic%20delivery%20systems%20%7C%20TypeScript%20SaaS%20%7C%20Cloud%20operations&descAlignY=58&descSize=16"
-    alt="Mathieu Ramage, agentic delivery systems, TypeScript SaaS, cloud operations"
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,42:1D4ED8,100:16A34A&text=Mathieu%20Ramage&fontColor=FFFFFF&fontSize=50&fontAlignY=34&desc=Digital%2C%20Data%20%26%20AI%20Leader%20%7C%20Agentic%20AI%20%7C%20Governed%20Software%20Delivery&descAlignY=57&descSize=15"
+    alt="Mathieu Ramage, Digital Data and AI Leader, Agentic AI, Governed Software Delivery"
     width="100%"
   />
 
   <p>
-    <strong>I build governed software systems that move from product idea to reliable execution.</strong>
+    <strong>Executive digital leader who can also design and build the systems.</strong>
+  </p>
+
+  <p>
+    I connect transformation strategy, product execution, software architecture, and AI automation to make complex organizations move faster with control.
   </p>
 
   <p>
     <a href="https://github.com/mathieuramage">
-      <img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-mathieuramage-111827?style=for-the-badge&logo=github&logoColor=white" />
+      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-mathieuramage-111827?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/mathieuramage">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mathieu%20Ramage-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <img alt="Location" src="https://img.shields.io/badge/Paris-France-2563EB?style=for-the-badge" />
-    <img alt="Focus" src="https://img.shields.io/badge/Focus-Agentic%20Delivery-16A34A?style=for-the-badge" />
   </p>
 </div>
 
-## What I Build
+## Executive Signal
 
-I work on product-side systems where code, operations, policy, and user experience have to fit together. Most of the serious work is private right now, so this profile is a public map of the systems, technologies, and judgment behind it.
+| Scope | Evidence |
+| --- | --- |
+| Digital, Data & AI leadership | 18+ years across digital, product, information systems, transformation, consulting, scale-up, and entrepreneurship. |
+| Organizational scale | Led teams up to 64 people and transformation programs spanning 200+ IT and digital professionals. |
+| Systems scale | Governed environments up to 500+ applications and 3,000 internal users serving millions of end customers. |
+| Financial scope | Managed budgets up to 36M EUR and delivered supplier/tooling rationalization with measurable savings. |
+| International execution | Operated across France, Morocco, and the United States. |
+| AI specialization | Designing governed agentic AI systems for software delivery, automation, human-in-the-loop control, and auditability. |
+
+## Current Thesis
+
+AI will not create durable enterprise value by adding another chatbot to the stack. It creates value when it is embedded into governed workflows: explicit rules, observable decisions, safe execution, human validation where risk is high, and measurable business outcomes.
+
+That is the thread across my work: **turn complex digital operations into controlled, automated, auditable systems**.
+
+## Selected Impact
+
+| Context | What changed |
+| --- | --- |
+| Circet | Restructured an Applications & Data direction across France and Morocco, unified application governance, created a Digital Factory in Casablanca, and generated 1.5M+ EUR annual savings. |
+| Axione, Bouygues Group | Built and led a business applications and BI organization, scaled product-data-tech practices, managed a 36M EUR IT budget, and industrialized demand management across a large application portfolio. |
+| Nexton | Led product and delivery missions for major accounts, including mobile, data, compliance, customer experience, and B2B2C SaaS. Improved mobile payment usage 4x, reduced support complaints by 40%, halved lead time, and lifted store rating from 2.5 to 4.8. |
+| Coyote | Led mobile discovery-to-delivery for iOS and Android products at 5M DAU scale, transformed 9 agile teams, reduced technical debt, industrialized testing, and improved App Store rating from 2.2 to 4.5 in one month. |
+| Handler | Founded and structured a San Francisco product company, recruited an 18-engineer team, and built a distributed operating model across multiple countries. |
+
+## What I Build Now
 
 <table>
   <tr>
     <td width="50%">
       <h3>SlashCommand</h3>
       <p>Governed agentic delivery for GitHub: backlog governance, PR automation, policy gates, human-in-the-loop approval, and audit-ready execution.</p>
-      <p><strong>Proves:</strong> GitHub automation, agent orchestration, merge governance, evidence trails.</p>
+      <p><strong>Expertise shown:</strong> agentic AI, GitHub automation, CI/CD governance, platform thinking, evidence trails.</p>
     </td>
     <td width="50%">
       <h3>BetterGrid</h3>
       <p>A field-work operating system for infrastructure teams, with maps, RBAC, compliance workflows, offline-oriented UX, and Supabase-backed operations.</p>
-      <p><strong>Proves:</strong> SaaS architecture, operational workflows, security checks, frontend systems.</p>
+      <p><strong>Expertise shown:</strong> operational SaaS, enterprise workflows, security, data modeling, product architecture.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>CityLens</h3>
       <p>Local event intelligence on a map, combining RSS, open data, press, partner feeds, Waze-style incidents, and social signals.</p>
-      <p><strong>Proves:</strong> ingestion, geocoding, signal fusion, map-first UX.</p>
+      <p><strong>Expertise shown:</strong> signal ingestion, geocoding, evidence fusion, map-first decision interfaces.</p>
     </td>
     <td width="50%">
       <h3>Handler V2</h3>
       <p>Handle-addressed messaging from the email client people already use, starting with a clean protocol and Gmail-first prototype path.</p>
-      <p><strong>Proves:</strong> protocol design, identity modeling, secure reboot of legacy product ideas.</p>
+      <p><strong>Expertise shown:</strong> protocol design, identity modeling, product reboot, privacy-aware architecture.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>FireFly</h3>
       <p>Embedded CAN/OBD exploration for authorized vehicle visibility use cases, with firmware, sniffing tools, and safety-first validation.</p>
-      <p><strong>Proves:</strong> hardware prototyping, CAN analysis, risk-aware embedded workflows.</p>
+      <p><strong>Expertise shown:</strong> hardware prototyping, CAN analysis, validation discipline, risk control.</p>
     </td>
     <td width="50%">
       <h3>GitHub Profile Lab</h3>
-      <p>Small utilities and protocols for understanding GitHub profile visibility, contribution behavior, and achievement boundaries.</p>
-      <p><strong>Proves:</strong> measurement discipline, CLI automation, guard-railed experimentation.</p>
+      <p>Utilities and protocols for understanding GitHub profile visibility, contribution behavior, and achievement boundaries.</p>
+      <p><strong>Expertise shown:</strong> measurement discipline, CLI automation, guard-railed experimentation.</p>
     </td>
   </tr>
 </table>
 
-## Core Strengths
+## Expertise Map
 
-| Area | What I am strong at |
+| Domain | Strengths |
 | --- | --- |
-| Product engineering | Turning unclear product ideas into scoped, usable, testable systems. |
-| TypeScript systems | Next.js, React, Vite, Node.js, monorepos, typed contracts, API design. |
-| Agentic delivery | GitHub Apps, Octokit, PR orchestration, CI watchers, policy gates, human approvals. |
-| Cloud operations | Cloud Run, Cloud Run Jobs, Firestore, Secret Manager, Cloud Scheduler, Cloud Tasks, Supabase, PostgreSQL. |
-| Governance | Veto paths, rollout rules, evidence packs, docs, runbooks, rollback planning. |
-| Verification | Vitest, Playwright, typecheck, lint, smoke tests, security checks, accessibility checks. |
+| Strategy & governance | Digital transformation, IT governance, operating models, roadmaps, portfolio rationalization, sourcing, budget control, decision bodies, performance indicators. |
+| Product, Data & AI | Product strategy, discovery-to-delivery, generative AI, agentic systems, governed automation, human-in-the-loop workflows, analytics, journey optimization. |
+| Engineering & delivery | CI/CD, GitHub workflows, software lifecycle automation, SaaS/API integrations, quality systems, observability, documentation, operational excellence. |
+| Leadership & transformation | Multidisciplinary team design, change management, multi-site leadership, product/data/engineering culture, executive alignment. |
 
-## Stack
+## Hands-On Stack
 
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -94,21 +123,22 @@ I work on product-side systems where code, operations, policy, and user experien
 ## Operating Mode
 
 ```text
-Discover the real constraint
-Design the smallest useful system
-Build the slice end to end
-Verify behavior with evidence
-Harden the path so it can run again
+Clarify the business constraint
+Map the system and the decision rights
+Design the smallest valuable controlled workflow
+Build the product and automation layer
+Verify with evidence, metrics, and rollback paths
+Scale through governance, documentation, and operating rituals
 ```
 
 ## Ask Me About
 
-- Agentic software delivery and GitHub automation
-- Governance-first CI/CD and merge workflows
-- TypeScript SaaS architecture
-- Next.js and React product surfaces
-- GCP and Supabase-backed operations
-- Early product strategy, technical scoping, and execution systems
+- Agentic AI for software delivery and enterprise automation
+- Digital, Data & AI transformation at executive level
+- Product operating models and discovery-to-delivery systems
+- GitHub automation, CI/CD governance, and merge workflows
+- TypeScript SaaS architecture and cloud-native operations
+- Rationalizing portfolios, suppliers, tools, and delivery processes
 
 <div align="center">
   <br />
