@@ -1,10 +1,4 @@
 <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,42:1D4ED8,100:16A34A&text=Mathieu%20Ramage&fontColor=FFFFFF&fontSize=50&fontAlignY=34&desc=Digital%2C%20Data%20%26%20AI%20Leader%20%7C%20Agentic%20AI%20%7C%20Governed%20Software%20Delivery&descAlignY=57&descSize=15"
-    alt="Mathieu Ramage, Digital Data and AI Leader, Agentic AI, Governed Software Delivery"
-    width="100%"
-  />
-
   <p>
     <strong>Executive digital leader who can also design and build the systems.</strong>
   </p>
