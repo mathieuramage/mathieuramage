@@ -40,6 +40,8 @@ I am at my best when the problem is messy: legacy systems, unclear ownership, de
 
 ## Hands-On Stack
 
+I do not treat the stack as a list of tools. I use it as a way to connect product decisions, software delivery, cloud operations, and AI-assisted execution.
+
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0F172A" />
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB&labelColor=0F172A" />
@@ -48,14 +50,30 @@ I am at my best when the problem is messy: legacy systems, unclear ownership, de
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0F172A" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=0F172A" />
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white&labelColor=0F172A" />
+  <img alt="Cloud Run" src="https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white&labelColor=0F172A" />
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white&labelColor=0F172A" />
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white&labelColor=0F172A" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=0F172A" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white&labelColor=0F172A" />
+  <img alt="GitHub Apps" src="https://img.shields.io/badge/GitHub_Apps-181717?style=flat-square&logo=github&logoColor=white&labelColor=0F172A" />
+  <img alt="Octokit" src="https://img.shields.io/badge/Octokit-181717?style=flat-square&logo=github&logoColor=white&labelColor=0F172A" />
+  <img alt="Google Gemini" src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white&labelColor=0F172A" />
+  <img alt="Google ADK" src="https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=0F172A" />
   <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white&labelColor=0F172A" />
   <img alt="Vitest" src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white&labelColor=0F172A" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0F172A" />
+  <img alt="PostHog" src="https://img.shields.io/badge/PostHog-000000?style=flat-square&logo=posthog&logoColor=white&labelColor=0F172A" />
+  <img alt="Sentry" src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white&labelColor=0F172A" />
 </p>
+
+| Layer | Tools and practices |
+| --- | --- |
+| Frontend product systems | TypeScript, React, Next.js App Router, Vite, Tailwind CSS, Radix UI, shadcn/ui patterns, responsive product surfaces, map-first interfaces. |
+| Backend and integrations | Node.js, Express, API routes, REST contracts, webhooks, Zod validation, Octokit, GitHub Apps, Slack API, SaaS/API integrations. |
+| AI and agentic workflows | Google ADK, Gemini, governed agent workflows, skills/rules, human-in-the-loop approval, evidence generation, policy-aware automation. |
+| Cloud and data | Google Cloud Run, Cloud Run Jobs, Firestore, Secret Manager, Cloud Scheduler, Cloud Tasks, Cloud Storage, Firebase, Supabase, PostgreSQL. |
+| Delivery and quality | GitHub Actions, CI/CD, Docker, Playwright, Vitest, ESLint, TypeScript typecheck, smoke tests, accessibility checks, security checks. |
+| Product operations | Product discovery, analytics, observability, PostHog, Sentry, runbooks, rollback paths, decision logs, portfolio and supplier rationalization. |
 
 ## Why This Matters
 
