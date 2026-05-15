@@ -24,6 +24,25 @@
   </p>
 </div>
 
+## Hands-On Stack
+
+<p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" />
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+  <img alt="Vitest" src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
 ## Executive Signal
 
 | Scope | Evidence |
@@ -40,16 +59,6 @@
 AI will not create durable enterprise value by adding another chatbot to the stack. It creates value when it is embedded into governed workflows: explicit rules, observable decisions, safe execution, human validation where risk is high, and measurable business outcomes.
 
 That is the thread across my work: **turn complex digital operations into controlled, automated, auditable systems**.
-
-## Selected Impact
-
-| Context | What changed |
-| --- | --- |
-| Circet | Restructured an Applications & Data direction across France and Morocco, unified application governance, created a Digital Factory in Casablanca, and generated 1.5M+ EUR annual savings. |
-| Axione, Bouygues Group | Built and led a business applications and BI organization, scaled product-data-tech practices, managed a 36M EUR IT budget, and industrialized demand management across a large application portfolio. |
-| Nexton | Led product and delivery missions for major accounts, including mobile, data, compliance, customer experience, and B2B2C SaaS. Improved mobile payment usage 4x, reduced support complaints by 40%, halved lead time, and lifted store rating from 2.5 to 4.8. |
-| Coyote | Led mobile discovery-to-delivery for iOS and Android products at 5M DAU scale, transformed 9 agile teams, reduced technical debt, industrialized testing, and improved App Store rating from 2.2 to 4.5 in one month. |
-| Handler | Founded and structured a San Francisco product company, recruited an 18-engineer team, and built a distributed operating model across multiple countries. |
 
 ## What I Build Now
 
@@ -100,25 +109,6 @@ That is the thread across my work: **turn complex digital operations into contro
 | Product, Data & AI | Product strategy, discovery-to-delivery, generative AI, agentic systems, governed automation, human-in-the-loop workflows, analytics, journey optimization. |
 | Engineering & delivery | CI/CD, GitHub workflows, software lifecycle automation, SaaS/API integrations, quality systems, observability, documentation, operational excellence. |
 | Leadership & transformation | Multidisciplinary team design, change management, multi-site leadership, product/data/engineering culture, executive alignment. |
-
-## Hands-On Stack
-
-<p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" />
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
-  <img alt="Vitest" src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-</p>
 
 ## Operating Mode
 
