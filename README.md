@@ -21,27 +21,29 @@
   </p>
 </div>
 
-## Hi
+## 👋 Hi
 
 I have spent the last 18+ years somewhere between product, engineering, digital transformation, data, and entrepreneurship.
 
-I started in San Francisco, built companies, led mobile products at scale, and later ran digital and data organizations inside larger groups. These days, I am mostly focused on a simple question:
+I started in San Francisco, built companies, led mobile products at scale, and later ran digital and data organizations inside larger groups.
+
+These days, I am mostly focused on a simple question:
 
 **How do we make software teams faster without making the system messy, risky, or impossible to trust?**
 
 That is why I am building around agentic AI, GitHub automation, delivery governance, and human-in-the-loop workflows. Not AI as decoration. AI as part of how work actually moves.
 
-## What I Am Building
+## 🛠️ What I Am Building
 
 | Project | Short version |
 | --- | --- |
 | **SlashCommand** | Governed agentic delivery for GitHub: planning, PR automation, policy gates, approvals, audit trails. |
-| **BetterGrid** | A field-work OS for infrastructure teams: maps, RBAC, compliance workflows, offline-friendly UX. |
+| **BetterGrid** | Field-work OS for infrastructure teams: maps, RBAC, compliance workflows, offline-friendly UX. |
 | **CityLens** | Local event intelligence on a map: public signals, RSS, open data, geocoding, source confidence. |
-| **Handler V2** | A reboot of handle-based messaging from the email client people already use. |
+| **Handler V2** | Handle-based messaging from the email client people already use. |
 | **FireFly** | CAN/OBD experiments for authorized vehicle visibility use cases. Hardware, firmware, safety first. |
 
-## Stack I Reach For
+## ⚙️ Stack I Reach For
 
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0F172A" />
@@ -64,15 +66,15 @@ That is why I am building around agentic AI, GitHub automation, delivery governa
 
 I usually work across the whole loop: product strategy, architecture, APIs, frontend, cloud, CI/CD, observability, docs, and rollout.
 
-## Things I Care About
+## 🧭 Things I Care About
 
-- Useful AI, not AI theater.
-- Systems with clear ownership and rollback paths.
-- Product teams that understand the business, not just the backlog.
-- Automation that is observable, auditable, and safe to stop.
-- Interfaces that help people make decisions faster.
+- **Useful AI**, not AI theater.
+- **Clear ownership**, with rollback paths.
+- **Product teams** that understand the business, not just the backlog.
+- **Automation** that is observable, auditable, and safe to stop.
+- **Interfaces** that help people make decisions faster.
 
-## Ask Me About
+## 💬 Ask Me About
 
 - Agentic AI for software delivery
 - GitHub automation and PR workflows
