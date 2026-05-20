@@ -11,13 +11,13 @@
 
   <p>
     <a href="https://github.com/mathieuramage">
-      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-mathieuramage-111827?style=for-the-badge&logo=github&logoColor=white" />
+      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-mathieuramage-111827?style=flat-square&logo=github&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/mathieuramage">
-      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mathieu%20Ramage-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A" />
+      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mathieu%20Ramage-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0F172A" />
     </a>
-    <img alt="Paris, France" src="https://img.shields.io/badge/%F0%9F%97%BC%20Paris-France-2563EB?style=for-the-badge&labelColor=0F172A" />
-    <img alt="Agentic AI" src="https://img.shields.io/badge/AI-Agentic%20Systems-16A34A?style=for-the-badge&labelColor=0F172A" />
+    <img alt="Paris, France" src="https://img.shields.io/badge/%F0%9F%97%BC%20Paris-France-2563EB?style=flat-square&labelColor=0F172A" />
+    <img alt="Agentic AI" src="https://img.shields.io/badge/AI-Agentic%20Systems-16A34A?style=flat-square&labelColor=0F172A" />
   </p>
 </div>
 
@@ -27,21 +27,21 @@ I have spent the last 18+ years somewhere between product, engineering, digital 
 
 I started in San Francisco, built companies, led mobile products at scale, and later ran digital and data organizations inside larger groups.
 
-These days, I am mostly focused on a simple question:
+These days, I keep coming back to one question:
 
 **How do we make software teams faster without making the system messy, risky, or impossible to trust?**
 
-That is why I am building around agentic AI, GitHub automation, delivery governance, and human-in-the-loop workflows. Not AI as decoration. AI as part of how work actually moves.
+That is why I build around agentic AI, GitHub automation, delivery governance, and human-in-the-loop workflows.
+
+Not AI as decoration. AI as part of how work actually moves.
 
 ## 🛠️ What I Am Building
 
-| Project | Short version |
-| --- | --- |
-| **SlashCommand** | Governed agentic delivery for GitHub: planning, PR automation, policy gates, approvals, audit trails. |
-| **BetterGrid** | Field-work OS for infrastructure teams: maps, RBAC, compliance workflows, offline-friendly UX. |
-| **CityLens** | Local event intelligence on a map: public signals, RSS, open data, geocoding, source confidence. |
-| **Handler V2** | Handle-based messaging from the email client people already use. |
-| **FireFly** | CAN/OBD experiments for authorized vehicle visibility use cases. Hardware, firmware, safety first. |
+- **SlashCommand**: governed agentic delivery for GitHub. Planning, PR automation, policy gates, approvals, audit trails.
+- **BetterGrid**: field-work OS for infrastructure teams. Maps, RBAC, compliance workflows, offline-friendly UX.
+- **CityLens**: local event intelligence on a map. Public signals, RSS, open data, geocoding, source confidence.
+- **Handler V2**: handle-based messaging from the email client people already use.
+- **FireFly**: CAN/OBD experiments for authorized vehicle visibility use cases. Hardware, firmware, safety first.
 
 ## ⚙️ Stack I Reach For
 
