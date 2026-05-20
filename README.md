@@ -1,26 +1,3 @@
-<div align="center">
-  <h1>Mathieu Ramage</h1>
-
-  <p>
-    <strong>I build products, teams, and AI-assisted delivery systems.</strong>
-  </p>
-
-  <p>
-    Digital / Data / AI leader. Still hands-on. Based in Paris.
-  </p>
-
-  <p>
-    <a href="https://github.com/mathieuramage">
-      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-mathieuramage-111827?style=flat-square&logo=github&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/mathieuramage">
-      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mathieu%20Ramage-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0F172A" />
-    </a>
-    <img alt="Paris, France" src="https://img.shields.io/badge/%F0%9F%97%BC%20Paris-France-2563EB?style=flat-square&labelColor=0F172A" />
-    <img alt="Agentic AI" src="https://img.shields.io/badge/AI-Agentic%20Systems-16A34A?style=flat-square&labelColor=0F172A" />
-  </p>
-</div>
-
 ## 👋 Hi
 
 I have spent the last 18+ years somewhere between product, engineering, digital transformation, data, and entrepreneurship.
