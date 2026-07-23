@@ -4,13 +4,7 @@ I have spent the last 18+ years somewhere between product and engineering.
 
 I started in San Francisco, built companies, led mobile products at scale, and later ran digital and data organizations inside larger groups.
 
-These days, I keep coming back to one question:
-
-**How do we make software teams faster without making the system messy, risky, or impossible to trust?**
-
-That is why I build around agentic AI, GitHub automation, delivery governance, and human-in-the-loop workflows.
-
-Not AI as decoration. AI as part of how work actually moves.
+These days, I build around agentic AI, GitHub automation, delivery governance, and human-in-the-loop workflows.
 
 ## ⚙️ Stack I Reach For
 
