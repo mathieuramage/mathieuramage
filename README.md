@@ -1,6 +1,6 @@
 ## 👋 Hi
 
-I have spent the last 18+ years somewhere between product, engineering, digital transformation, data, and entrepreneurship.
+I have spent the last 18+ years somewhere between product and engineering.
 
 I started in San Francisco, built companies, led mobile products at scale, and later ran digital and data organizations inside larger groups.
 
@@ -11,14 +11,6 @@ These days, I keep coming back to one question:
 That is why I build around agentic AI, GitHub automation, delivery governance, and human-in-the-loop workflows.
 
 Not AI as decoration. AI as part of how work actually moves.
-
-## 🛠️ What I Am Building
-
-- **SlashCommand**: governed agentic delivery for GitHub. Planning, PR automation, policy gates, approvals, audit trails.
-- **BetterGrid**: field-work OS for infrastructure teams. Maps, RBAC, compliance workflows, offline-friendly UX.
-- **CityLens**: local event intelligence on a map. Public signals, RSS, open data, geocoding, source confidence.
-- **Handler V2**: handle-based messaging from the email client people already use.
-- **FireFly**: CAN/OBD experiments for authorized vehicle visibility use cases. Hardware, firmware, safety first.
 
 ## ⚙️ Stack I Reach For
 
@@ -42,22 +34,6 @@ Not AI as decoration. AI as part of how work actually moves.
 </p>
 
 I usually work across the whole loop: product strategy, architecture, APIs, frontend, cloud, CI/CD, observability, docs, and rollout.
-
-## 🧭 Things I Care About
-
-- **Useful AI**, not AI theater.
-- **Clear ownership**, with rollback paths.
-- **Product teams** that understand the business, not just the backlog.
-- **Automation** that is observable, auditable, and safe to stop.
-- **Interfaces** that help people make decisions faster.
-
-## 💬 Ask Me About
-
-- Agentic AI for software delivery
-- GitHub automation and PR workflows
-- Product operating models
-- TypeScript / React / Next.js SaaS architecture
-- GCP, Supabase, CI/CD, and operational tooling
 
 <div align="center">
   <br />
